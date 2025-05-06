@@ -1,4 +1,4 @@
-## YOLOv12n Real-Time Object Detection
+## Real-Time Object Detection with YOLOv12n
 
 This project uses the YOLOv12n model for real-time object detection via webcam, optimized for slower machines.
 
